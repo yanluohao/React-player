@@ -1,0 +1,10 @@
+.progress-box {
+    background: #ccc;
+    height: 3px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.progress-box .progress {
+    height: 3px;
+}
